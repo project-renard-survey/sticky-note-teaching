@@ -41,3 +41,18 @@ This helps the instructor keep track of questions that might otherwise
 be forgotten, and signals to learners that their questions will
 actually be answered.  (It also gives the instructor an opening to
 decide which questions to answer and in how much detail.)
+
+## Fair Air Time
+
+Some people are so used to the sound of their own voice that they will
+insist on talking half the time no matter how many other people are in
+the room. One way to combat this is to give everyone three sticky
+notes at the start of the meeting.  Every time they speak, they have
+to take down one sticky note.  When they're out of notes, they aren't
+allowed to speak until everyone has used at least one, at which point
+everyone gets all of their sticky notes back.  This ensures that
+nobody talks more than three times as often as the quietest person in
+the meeting, and completely changes the dynamics of most groups:
+people who have given up trying to be heard because they always get
+trampled suddenly have space to contribute, and the overly-frequent
+speakers quickly realize just how unfair they have been.
