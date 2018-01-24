@@ -56,3 +56,15 @@ the meeting, and completely changes the dynamics of most groups:
 people who have given up trying to be heard because they always get
 trampled suddenly have space to contribute, and the overly-frequent
 speakers quickly realize just how unfair they have been.
+
+## Minute Cards
+
+Before each break, have learners take a minute to write one positive
+thing about the most recent session on the green sticky note (e.g.,
+one thing they've learned that they think will be useful), and one
+thing they found too fast, too slow, confusing, or irrelevant on the
+red one. While they are enjoying their coffee or lunch, instructors
+can review and cluster these to find patterns. It only takes a few
+minutes to see what learners are enjoying, what they still find
+confusing, what problems they're having, and what questions are still
+unanswered.
