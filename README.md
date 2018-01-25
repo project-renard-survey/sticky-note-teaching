@@ -29,7 +29,7 @@ people raise their hands because:
 *   the instructor can quickly see from the front of the room what state
     the class is in.
 
-### Name Tent Variation
+### Name Tent Status Flag Variation
 
 One variation on the sticky note idea for status flags is to prepare name
 tent[*] for each learner that is half green and half red.  The learner will
