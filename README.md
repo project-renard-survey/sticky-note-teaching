@@ -42,6 +42,9 @@ use its orientation to indicate their status:
 
 * flat on the table is a neutral status
 
+The name tent can also be used to hold additional sticky notes used for the
+other purposes described here.
+
 [*] a name tent is a rectangular piece of stiff paper or card stock, folded in
 half the long way so that it stands on a table like a triangular prism.
 
