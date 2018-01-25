@@ -31,7 +31,7 @@ people raise their hands because:
 
 ### Name Tent Status Flag Variation
 
-One variation on the sticky note idea for status flags is to prepare name
+One variation on the sticky note idea for status flags is to prepare a name
 tent[*] for each learner that is half green and half red.  The learner will
 write their preferred name on this at the beginning of the session and then
 use its orientation to indicate their status:
