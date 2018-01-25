@@ -14,7 +14,7 @@ note that we require everyone involved in this project to abide by our
 code of conduct (found in `CONDUCT.md`).
 
 <div align="center">
-  <img width="200px" src="./omoshiro-block-3.jpg" alt="Image from http://www.spoon-tamago.com/2018/01/12/omoshiro-block/" />
+  <a href="http://www.spoon-tamago.com/2018/01/12/omoshiro-block/"><img width="200px" src="./omoshiro-block-3.jpg" alt="Image from http://www.spoon-tamago.com/2018/01/12/omoshiro-block/" /></a>
 </div>
 
 ## Status Flags
