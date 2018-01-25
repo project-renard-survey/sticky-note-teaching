@@ -11,7 +11,11 @@ Please note that by doing contributing, you are agreeing that we may
 incorporate your work in either original or edited form and release
 them under the same license as the rest of this material.  Please also
 note that we require everyone involved in this project to abide by our
-code of conduct (found in `CONDUCT.md`)
+code of conduct (found in `CONDUCT.md`).
+
+<div align="center">
+  <img width="200px" src="./omoshiro-block-3.jpg" alt="Image from http://www.spoon-tamago.com/2018/01/12/omoshiro-block/" />
+</div>
 
 ## Status Flags
 
@@ -111,3 +115,9 @@ because it forces them to externalize their thinking, which can be
 enough to call out gaps in reasoning. Re-polling the class then lets
 the instructor know if they can move on, or if further explanation is
 necessary.
+
+---
+
+<div align="center">
+Copyright © 2018 the authors.
+</div>
