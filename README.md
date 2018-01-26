@@ -163,15 +163,24 @@ This technique is even more useful for eliciting positions when two
 related issues are being discussed, e.g., "We should charge for
 admission," and, "We should pay our instructors."
 
+## Call Stack
+
+When teaching how variable scoping works, have learners simulate the
+call stack by writing the names and values of the parameters and local
+variables for each function call on a sticky note and put it on the
+top of a (literal) stack.  Each time a function call returns, remove
+that sticky note from the stack.  (This works best if a separate
+sticky note on the side is used for global variables.)
+
 ## Version Control Simulations
 
-When teaching version control concepts, color coded sticky notes
-can help students understand the steps involved in branching and
-merging with multiple contributors. If each student in a small group
-uses a different color of sticky note to contribute their edits to the
-group project, it's easy for each person to tell who's contributed 
-which changes and where their contribution is in the sequence (add, 
-commit, push/pull, merged).
+When teaching version control, color coded sticky notes can help
+students understand the steps involved in branching and merging with
+multiple contributors. If each student in a small group uses a
+different color of sticky note to contribute their edits to the group
+project, it's easy for each person to tell who's contributed which
+changes and where their contribution is in the sequence (add, commit,
+push/pull, merged).
 
 ---
 
