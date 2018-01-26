@@ -163,6 +163,16 @@ This technique is even more useful for eliciting positions when two
 related issues are being discussed, e.g., "We should charge for
 admission," and, "We should pay our instructors."
 
+## Assigning Roles
+
+When two or more instructors are playing different roles in teaching,
+or when one instructor is playing several roles, use different-colored
+sticky notes or sticky notes with role names on them to help learners
+keep track of who is who.  For example, if an instructor is switching
+between two accounts to show how collaboration works in a version
+control lesson, they can alternate between red and green sticky notes
+to indicate which role they're playing at any time.
+
 ## Call Stack
 
 When teaching how variable scoping works, have learners simulate the
