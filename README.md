@@ -33,6 +33,14 @@ people raise their hands because:
 *   the instructor can quickly see from the front of the room what state
     the class is in.
 
+## A Third Status Flag
+
+Give each learner a sticky note of a third color, e.g., blue.  When
+their brain is full or they think it's time for a break, they put it
+up on their laptop.  The instructor can then see when it's time to
+take a breather.  (Learners are usually reluctant at first to put
+these up, but get used to the idea after a couple of breaks.)
+
 ## Distributing Attention
 
 Sticky notes can be used to ensure that the instructor's attention is
