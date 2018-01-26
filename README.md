@@ -144,6 +144,16 @@ This technique is even more useful for eliciting positions when two
 related issues are being discussed, e.g., "We should charge for
 admission," and, "We should pay our instructors."
 
+## Version Control Simulations
+
+When teaching version control concepts, color coded sticky notes
+can help students understand the steps involved in branching and
+merging with multiple contributors. If each student in a small group
+uses a different color of sticky note to contribute their edits to the
+group project, it's easy for each person to tell who's contributed 
+which changes and where their contribution is in the sequence (add, 
+commit, push/pull, merged).
+
 ---
 
 <div align="center">
