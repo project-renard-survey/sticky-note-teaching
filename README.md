@@ -124,6 +124,18 @@ enough to call out gaps in reasoning. Re-polling the class then lets
 the instructor know if they can move on, or if further explanation is
 necessary.
 
+## Version control simulations
+
+When teaching version control concepts, color coded sticky notes
+can help students understand the steps involved in branching and
+merging with multiple contributors. If each student in a small group
+uses a different color of sticky note to contribute their edits to the
+group project, it's easy for each person to tell who's contributed 
+which changes and where their contribution is in the sequence (add, 
+commit, push/pull, merged).
+
+
+
 ---
 
 <div align="center">
