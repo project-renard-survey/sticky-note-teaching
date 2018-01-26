@@ -124,6 +124,13 @@ enough to call out gaps in reasoning. Re-polling the class then lets
 the instructor know if they can move on, or if further explanation is
 necessary.
 
+## Ask and Offer
+
+Each person is given two sticky notes.  On one, they write something
+they want or need (the "ask"); on the other, they write something they
+could do for someone else (the "offer").  The class then posts the
+stickies in two rows on a wall (asks on top, offers on bottom).
+
 ---
 
 <div align="center">
