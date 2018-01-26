@@ -33,6 +33,25 @@ people raise their hands because:
 *   the instructor can quickly see from the front of the room what state
     the class is in.
 
+### Name Tent Variation
+
+A name tent is a rectangular piece of stiff paper or card stock,
+folded in half the long way so that it stands on a table like a
+triangular prism.  One variation on the sticky note idea for status
+flags is to prepare a name tent for each learner that is half green
+and half red.  The learner will write their preferred name on this at
+the beginning of the session and then use its orientation to indicate
+their status:
+
+* green side up has the same meaning as green sticky
+
+* red side up has the same meaning as red sticky
+
+* flat on the table is a neutral status
+
+The name tent can also be used to hold additional sticky notes used
+for the other purposes described here.
+
 ## A Third Status Flag
 
 Give each learner a sticky note of a third color, e.g., blue.  When
