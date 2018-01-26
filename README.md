@@ -131,6 +131,19 @@ they want or need (the "ask"); on the other, they write something they
 could do for someone else (the "offer").  The class then posts the
 stickies in two rows on a wall (asks on top, offers on bottom).
 
+## Taking a Stand
+
+Make a statement, such as, "We should charge for admission to
+workshops," and then write "Strongly Agree" and "Strongly Disagree" on
+opposite sites of a whiteboard.  Each person then puts their name on a
+sticky note and puts it on the whiteboard to indicate where they
+stand: i.e., putting it in the middle would indicate that they're
+neutral on this issue.
+
+This technique is even more useful for eliciting positions when two
+related issues are being discussed, e.g., "We should charge for
+admission," and, "We should pay our instructors."
+
 ---
 
 <div align="center">
