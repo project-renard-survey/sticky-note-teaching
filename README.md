@@ -26,10 +26,12 @@ code of conduct (found in `CONDUCT.md`).
 
 ## Status Flags
 
-Give each learner two sticky notes of different colours, e.g., red and
-green. If someone has completed an exercise and wants it checked, they
+Give each learner three sticky notes of different colours, e.g., red, yellow/orange and
+green (you can use other colors like pink and blue to keep the class colorblind friendly). 
+If someone has completed an exercise and wants it checked, they
 put the green sticky note on their laptop; if they run into a problem
-and need help, the put up the red one. This is better than having
+and need help, they put up the red one; if they are working on the problem and need time, 
+they put the yellow sticky note. This is better than having
 people raise their hands because:
 
 *   it's more discreet (which means they're more likely to actually do
@@ -121,6 +123,13 @@ can review and cluster these to find patterns. It only takes a few
 minutes to see what learners are enjoying, what they still find
 confusing, what problems they're having, and what questions are still
 unanswered.
+
+## Expectation cards
+
+In the beginning of a course, have learners write down their expectations 
+on the sticky notes and put them up on the wall for the reference throughout
+the course. At the end of the course go through them one-by-one, asking
+the author of the card if their expectation was addressed.
 
 ## Peer Instruction
 
