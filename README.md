@@ -19,6 +19,7 @@ code of conduct (found in `CONDUCT.md`).
 
 **Contributors**
 
+*   Malvika Sharan
 *   Ashwin Srinath
 *   Dena Strong
 *   Greg Wilson
@@ -26,13 +27,11 @@ code of conduct (found in `CONDUCT.md`).
 
 ## Status Flags
 
-Give each learner three sticky notes of different colours, e.g., red, yellow/orange and
-green (you can use other colors like pink and blue to keep the class colorblind friendly). 
-If someone has completed an exercise and wants it checked, they
-put the green sticky note on their laptop; if they run into a problem
-and need help, they put up the red one; if they are working on the problem and need time, 
-they put the yellow sticky note. This is better than having
-people raise their hands because:
+Give each learner two sticky notes of two different colours, e.g., red
+and blue. If someone has completed an exercise and wants it checked,
+they put the blue sticky note on their laptop; if they run into a
+problem and need help, they put up the red one.  This is better than
+having people raise their hands because:
 
 *   it's more discreet (which means they're more likely to actually do
     it),
@@ -41,6 +40,16 @@ people raise their hands because:
 
 *   the instructor can quickly see from the front of the room what state
     the class is in.
+
+### Tricolor Variation
+
+Give each learner a sticky note of a third color, such as yellow.
+(You can use other colors like orange to keep the class colorblind
+friendly.)  Blue and red still signal "done" and "need help"; the
+third color signals that they are working on the problem and need
+time.  This gives the instructor more information, but requires more
+work on the learners' part, so it is usually best to introduce after
+they are comfortable with the simpler version.
 
 ### Name Tent Variation
 
@@ -61,7 +70,7 @@ their status:
 The name tent can also be used to hold additional sticky notes used
 for the other purposes described here.
 
-## A Third Status Flag
+### Time for a Break
 
 Give each learner a sticky note of a third color, e.g., blue.  When
 their brain is full or they think it's time for a break, they put it
